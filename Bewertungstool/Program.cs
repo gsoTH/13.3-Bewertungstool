@@ -1,9 +1,10 @@
-﻿namespace Bewertungstool;
-
-class Program
+﻿namespace Bewertungstool
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
