@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bewertungstool", "Bewertungstool\Bewertungstool.csproj", "{0000DB50-7A1A-45D1-9AEA-DBE3A10C49B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BewertungstoolTests", "BewertungstoolTests\BewertungstoolTests.csproj", "{3CFA5FA1-BA49-4DB6-9D7C-908D235E3DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0000DB50-7A1A-45D1-9AEA-DBE3A10C49B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0000DB50-7A1A-45D1-9AEA-DBE3A10C49B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0000DB50-7A1A-45D1-9AEA-DBE3A10C49B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0000DB50-7A1A-45D1-9AEA-DBE3A10C49B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFA5FA1-BA49-4DB6-9D7C-908D235E3DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFA5FA1-BA49-4DB6-9D7C-908D235E3DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFA5FA1-BA49-4DB6-9D7C-908D235E3DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFA5FA1-BA49-4DB6-9D7C-908D235E3DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
