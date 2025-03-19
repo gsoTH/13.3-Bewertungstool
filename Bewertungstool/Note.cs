@@ -4,6 +4,7 @@ namespace Bewertungstool
     {
         private int moeglichePunkte;
         private int erreichtePunkte;
+        
         public Note(int moeglichePunkte, int erreichtePunkte)
         {
             this.moeglichePunkte = moeglichePunkte;
@@ -27,7 +28,7 @@ namespace Bewertungstool
                     case < 0.26:    return 5.3;
                     case < 0.33:    return 5;
                     case < 0.39:    return 4.7;
-                    case < 0.44:    return 4.3;
+                    case < 0.49:    return 4.3;
                     case < 0.5:     return 4;
                     case < 0.55:    return 3.7;
                     case < 0.6:     return 3.3;
@@ -81,7 +82,7 @@ namespace Bewertungstool
                     case < 0.39: return "mangelhaft";
                     case < 0.44: return "ausreichend";
                     case < 0.5:  return "ausreichend";
-                    case < 0.55: return "ausreichend";
+                    case < 0.55: return "befriedigend";
                     case < 0.6:  return "befriedigend";
                     case < 0.65: return "befriedigend";
                     case < 0.7:  return "befriedigend";
