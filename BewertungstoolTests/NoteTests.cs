@@ -18,7 +18,7 @@ namespace BewertungstoolTests
             // Assert
             Assert.AreEqual(moeglichePunkte, n.MoeglichePunkte);
             Assert.AreEqual(erreichtePunkte, n.ErreichtePunkte);
-            Assert.AreEqual(25.0, n.Prozent);
+            Assert.AreEqual(0.25, n.Prozent);
             Assert.AreEqual(5.3, n.Dezimal);
             Assert.AreEqual("5-", n.Kurz);
             Assert.AreEqual("mangelhaft", n.Lang);
