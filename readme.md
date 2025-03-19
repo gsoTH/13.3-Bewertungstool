@@ -43,18 +43,18 @@ Die nachfolgenden Tabellen enthalten die gültigen Notenschlüssel der verschied
 | Prozent bis | Dezimal | Kurz | Lang         |
 |-------------|---------|------|--------------|
 | 0.30        | 6.00    | 6    | ungenügend   |
-| 0.00        | 5.30    | 5-   | mangelhaft   |
-| 0.37        | 5.00    | 5    | mangelhaft   |
-| 0.43        | 4.70    | 5+   | mangelhaft   |
-| 0.50        | 4.30    | 4-   | ausreichend  |
-| 0.56        | 4.00    | 4    | ausreichend  |
-| 0.61        | 3.70    | 4+   | ausreichend  |
-| 0.67        | 3.30    | 3-   | befriedigend |
-| 0.72        | 3.00    | 3    | befriedigend |
-| 0.76        | 2.70    | 3+   | befriedigend |
-| 0.81        | 2.30    | 2-   | gut          |
-| 0.85        | 2.00    | 2    | gut          |
-| 0.88        | 1.70    | 2+   | gut          |
-| 0.92        | 1.30    | 1-   | sehr gut     |
-| 0.95        | 1.00    | 1    | sehr gut     |
-| 0.97        | 0.70    | 1+   | sehr gut     |
+| 0.37        | 5.30    | 5-   | mangelhaft   |
+| 0.43        | 5.00    | 5    | mangelhaft   |
+| 0.50        | 4.70    | 5+   | mangelhaft   |
+| 0.56        | 4.30    | 4-   | ausreichend  |
+| 0.61        | 4.00    | 4    | ausreichend  |
+| 0.67        | 3.70    | 4+   | ausreichend  |
+| 0.72        | 3.30    | 3-   | befriedigend |
+| 0.76        | 3.00    | 3    | befriedigend |
+| 0.81        | 2.70    | 3+   | befriedigend |
+| 0.85        | 2.30    | 2-   | gut          |
+| 0.88        | 2.00    | 2    | gut          |
+| 0.92        | 1.70    | 2+   | gut          |
+| 0.95        | 1.30    | 1-   | sehr gut     |
+| 0.97        | 1.00    | 1    | sehr gut     |
+| 1.00        | 0.70    | 1+   | sehr gut     |
