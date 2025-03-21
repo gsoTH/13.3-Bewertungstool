@@ -24,7 +24,7 @@ namespace Bewertungstool
             {
                 switch (Prozent)
                 {
-                    case <  0.22:    return 6;
+                    case <= 0.20:    return 6;
                     case <= 0.26:    return 5.3;
                     case <= 0.33:    return 5;
                     case <= 0.39:    return 4.7;
@@ -50,7 +50,7 @@ namespace Bewertungstool
             {
                 switch (Prozent)
                 {
-                    case <  0.22: return "6";
+                    case <= 0.20: return "6";
                     case <= 0.26: return "5-";
                     case <= 0.33: return "5";
                     case <= 0.39: return "5+";
@@ -76,13 +76,13 @@ namespace Bewertungstool
             {
                 switch (Prozent)
                 {
-                    case <  0.22: return "ungenügend";
+                    case <= 0.20: return "ungenügend";
                     case <= 0.26: return "mangelhaft";
                     case <= 0.33: return "mangelhaft";
                     case <= 0.39: return "mangelhaft";
                     case <= 0.44: return "ausreichend";
                     case <= 0.5:  return "ausreichend";
-                    case <= 0.55: return "befriedigend";
+                    case <= 0.55: return "ausreichend";
                     case <= 0.6:  return "befriedigend";
                     case <= 0.65: return "befriedigend";
                     case <= 0.7:  return "befriedigend";
