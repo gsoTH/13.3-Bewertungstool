@@ -1,4 +1,6 @@
 # 13.3 Bewertungstool
+[Link zu Infomaterial (1/2)](https://gsobk-my.sharepoint.com/:w:/g/personal/m_thomas_gso_schule_koeln/IQCOz-21LTnwTL7kMphDSwQ-AYcHgKoZwuXdFou8-FWCqkA?e=QNXz24)
+[Link zu Infomaterial (2/2)](https://gsobk-my.sharepoint.com/:w:/g/personal/m_thomas_gso_schule_koeln/IQBZmLN_LRXdQb_LwXaiAmxqATo7ivADrGGPc_yCH42R1HM?e=tbVFAI)
 
 ## User Stories
 ### Notenberechnung
