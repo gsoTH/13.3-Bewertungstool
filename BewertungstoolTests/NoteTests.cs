@@ -37,5 +37,31 @@ namespace BewertungstoolTests
             Assert.AreEqual(langErgebnis, n.Lang);
         }
 
+        [TestMethod]
+        public void Name_HatStandardwert()
+        {
+            // Arrange
+            Note n = new Note(100, 100);
+
+            // Act
+            string standardwert = n.Name;
+
+            // Assert
+            Assert.AreEqual("Anonym", standardwert);
+        }
+
+        [TestMethod]
+        public void Name_KannGesetztWerden()
+        {
+            // Arrange
+            Note n = new Note(100, 100);
+            string neuerName = "Franz";
+
+            // Act
+            n.Name = neuerName;
+
+            // Assert
+            Assert.AreEqual(neuerName, n.Name);
+        }
     }
 }
